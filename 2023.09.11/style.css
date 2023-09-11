@@ -1,0 +1,24 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-decoration: underline;
+  text-decoration-color: rgb(47, 41, 41);
+  text-decoration-style: double;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  background-color: beige;
+  cursor: pointer;
+}
+
+body {
+  background-color: rgb(184, 144, 93);
+}
+
+
+h1{
+
+    cursor: pointer;
+}
